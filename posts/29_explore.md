@@ -1,3 +1,9 @@
+---
+title: "29. Fetching countries data from countries API"
+description: "Day 29 of tutorial: Fetching countries data from countries API"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Project</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">

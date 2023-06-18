@@ -1,3 +1,9 @@
+---
+title: "26. Context"
+description: "Day 26 of tutorial: Context"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Context</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">

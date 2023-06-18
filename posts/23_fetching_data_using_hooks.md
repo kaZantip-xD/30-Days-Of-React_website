@@ -1,3 +1,9 @@
+---
+title: "23. Fetching Data Using Hooks"
+description: "Day 23 of tutorial: Fetching Data Using Hooks"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Fetching Data Using Hooks</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">

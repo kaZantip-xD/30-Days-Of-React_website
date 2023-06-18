@@ -1,3 +1,9 @@
+---
+title: "25. Custom Hooks"
+description: "Day 25 of tutorial: Custom Hooks"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Custom Hooks</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">

@@ -1,3 +1,9 @@
+---
+title: "28. Fetching countries data from countries API"
+description: "Day 28 of tutorial: Fetching countries data from countries API"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Project</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
@@ -29,7 +35,7 @@ In this section, you and I will develop an old version of twitter post.
 
 # Exercises
 
-1. Develop the following application, [twitter tweets](https://www.30daysofreact.com/day-28/twitter-clone). The application has all the CRUD operations. 
+1. Develop the following application, [twitter tweets](https://www.30daysofreact.com/day-28/twitter-clone). The application has all the CRUD operations.
 
 🎉 CONGRATULATIONS ! 🎉
 

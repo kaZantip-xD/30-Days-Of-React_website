@@ -1,3 +1,9 @@
+---
+title: "20. Fetch Api Projects. Part 2"
+description: "Day 20 of tutorial: Fetch Api Projects. Part 2"
+---
+
+
 <div align="center">
   <h1> 30 Days Of React: Projects</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
