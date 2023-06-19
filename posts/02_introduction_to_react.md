@@ -1,28 +1,16 @@
 ---
-title: "02. Getting Started React"
+title: "Getting Started React"
 description: "Day 2 of tutorial: Getting Started React"
+day: "Day 2"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Getting Started React</h1>
-  <a className="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a className="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 1](../01_Day_JavaScript_Refresher/01_javascript_refresher.md) | [Day 3 >>](../03_Day_Setting_Up/03_setting_up.md)
+[<< Day 1](./01_javascript_refresher) | [Day 3 >>](./03_setting_up)
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_2.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Getting Started React](#getting-started-react)
   - [1. What is React?](#1-what-is-react)
@@ -47,6 +35,10 @@ description: "Day 2 of tutorial: Getting Started React"
     - [Exercises: Inline Style](#exercises-inline-style)
     - [Exercises: Internal Styles](#exercises-internal-styles)
     - [Exercise: Inject data to JSX](#exercise-inject-data-to-jsx)
+
+</details>
+
+---
 
 ## Getting Started React
 
@@ -1607,4 +1599,4 @@ Now, you have a very good understanding of how to create JSX elements and also h
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 1](../01_Day_JavaScript_Refresher/01_javascript_refresher.md) | [Day 3 >>](../03_Day_Setting_Up/03_setting_up.md)
+[<< Day 1](./01_javascript_refresher) | [Day 3 >>](./03_setting_up)

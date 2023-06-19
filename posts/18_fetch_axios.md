@@ -1,28 +1,15 @@
 ---
-title: "18. Fetch and Axios"
+title: "Fetch and Axios"
 description: "Day 18 of tutorial: Fetch and Axios"
+day: "Day 18"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Fetch and Axios</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 17](../17_React_Router/17_react_router.md) | [Day 19>>]()
-
+[<< Day 17](./17_react_router) | [Day 19>>](./19_projects)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_18.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Fetch and Axios](#fetch-and-axios)
   - [Fetch](#fetch)
@@ -31,6 +18,10 @@ description: "Day 18 of tutorial: Fetch and Axios"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Fetch and Axios
 
@@ -449,4 +440,4 @@ As you have seen, there is no much difference between fetch and axios. But I rec
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 17](../17_React_Router/17_react_router.md) | [Day 19>>]()
+[<< Day 17](./17_react_router) | [Day 19>>](./19_projects)

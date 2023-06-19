@@ -1,27 +1,11 @@
 ---
-title: "29. Fetching countries data from countries API"
+title: "Fetching countries data from countries API"
 description: "Day 29 of tutorial: Fetching countries data from countries API"
+day: "Day 29"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Project</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 28](../27_Ref/27_ref.md) | [Day 29 >>](../29_explore/29_explore.md)
-
+[<< Day 28](./28_project) | [Day 29 >>](./30_conclusions)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_29.jpg)
 
 # Explore
@@ -45,4 +29,4 @@ Coming ...
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 27](../27_Ref/27_ref.md) | [Day 29>>]()
+[<< Day 28](./28_project) | [Day 29 >>](./30_conclusions)

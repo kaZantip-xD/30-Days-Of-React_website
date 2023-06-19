@@ -1,27 +1,11 @@
 ---
-title: "28. Fetching countries data from countries API"
+title: "Fetching countries data from countries API"
 description: "Day 28 of tutorial: Fetching countries data from countries API"
+day: "Day 28"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Project</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 27](../27_Ref/27_ref.md) | [Day 29>>]()
-
+[<< Day 27](./27_ref.md) | [Day 29>>](./29_explore)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_28.jpg)
 
 # Projects
@@ -39,4 +23,4 @@ In this section, you and I will develop an old version of twitter post.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 27](../27_Ref/27_ref.md) | [Day 29>>]()
+[<< Day 27](./27_ref.md) | [Day 29>>](./29_explore)

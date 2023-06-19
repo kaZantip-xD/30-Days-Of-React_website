@@ -1,28 +1,15 @@
 ---
-title: "10. React Project Folder Structure"
+title: "React Project Folder Structure"
 description: "Day 10 of tutorial: React Project Folder Structure"
+day: "Day 10"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: React Project Folder Structure</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 9](../09_Day_Conditional_Rendering/09_conditional_rendering.md) | [Day 11 >>](../11_Day_Events/11_events.md)
-
+[<< Day 9](./09_conditional_rendering) | [Day 11 >>](./11_events)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_10.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [React Project Folder Structure and File Naming](#react-project-folder-structure-and-file-naming)
   - [File Naming](#file-naming)
@@ -33,6 +20,10 @@ description: "Day 10 of tutorial: React Project Folder Structure"
   - [Exercises:Level 1](#exerciseslevel-1)
   - [Exercises:Level 2](#exerciseslevel-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # React Project Folder Structure and File Naming
 
@@ -626,4 +617,4 @@ Coming
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 9](../09_Day_Conditional_Rendering/09_conditional_rendering.md) | [Day 11 >>](../11_Day_Events/11_events.md)
+[<< Day 9](./09_conditional_rendering) | [Day 11 >>](./11_events)

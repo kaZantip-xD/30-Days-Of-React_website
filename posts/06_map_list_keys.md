@@ -1,28 +1,15 @@
 ---
-title: "06. Mapping Arrays"
+title: "Mapping Arrays"
 description: "Day 6 of tutorial: Mapping Arrays"
+day: "Day 6"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Mapping Arrays </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 5](./../05_Day_Props/05_props.md) | [Day 7 >>](../07_Day_Class_Components/07_class_components.md)
-
+[<< Day 5](./05_props) | [Day 7 >>](./07_class_components)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_6.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Mapping arrays](#mapping-arrays)
   - [Mapping and rendering arrays](#mapping-and-rendering-arrays)
@@ -34,6 +21,10 @@ description: "Day 6 of tutorial: Mapping Arrays"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Mapping arrays
 
@@ -291,4 +282,4 @@ ReactDOM.render(<App />, rootElement)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 5](./../05_Day_Props/05_props.md) | [Day 7 >>](../07_Day_Class_Components/07_class_components.md)
+[<< Day 5](./05_props) | [Day 7 >>](./07_class_components)

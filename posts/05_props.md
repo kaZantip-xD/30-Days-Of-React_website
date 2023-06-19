@@ -1,28 +1,15 @@
 ---
-title: "05. Props"
+title: "Props"
 description: "Day 5 of tutorial: Props"
+day: "Day 5"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Props </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md)
-
+[<< Day 4](./04_components) | [Day 6 >>](./06_map_list_keys)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_5.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Props](#props)
   - [Props in Functional Component](#props-in-functional-component)
@@ -42,6 +29,10 @@ description: "Day 5 of tutorial: Props"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Props
 
@@ -1102,4 +1093,4 @@ We will cover propTypes in detail in other sections.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 4](../04_Day_Component/04_components.md) | [Day 6 >>](../06_Day_Map_List_Keys/06_map_list_keys.md)
+[<< Day 4](./04_components) | [Day 6 >>](./06_map_list_keys)

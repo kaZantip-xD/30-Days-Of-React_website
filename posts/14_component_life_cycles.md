@@ -1,28 +1,15 @@
 ---
-title: "14. Component Life Cycles"
+title: "Component Life Cycles"
 description: "Day 14 of tutorial: Component Life Cycles"
+day: "Day 14"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React:Component Life Cycles</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 13](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md) | [Day 15 >>](../15_Third_Party_Packages/15_third_party_packages.md)
-
+[<< Day 13](./13_uncontrolled_input) | [Day 15 >>](./15_third_party_packages)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_14.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Component Life Cycles](#component-life-cycles)
   - [What is component life cycle](#what-is-component-life-cycle)
@@ -41,6 +28,10 @@ description: "Day 14 of tutorial: Component Life Cycles"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Component Life Cycles
 
@@ -622,4 +613,4 @@ Coming
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 13](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md) | [Day 15 >>](../15_Third_Party_Packages/15_third_party_packages.md)
+[<< Day 13](./13_uncontrolled_input) | [Day 15 >>](./15_third_party_packages)

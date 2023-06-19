@@ -1,34 +1,25 @@
 ---
-title: "13. Uncontrolled Component"
+title: "Uncontrolled Component"
 description: "Day 13 of tutorial: Uncontrolled Component"
+day: "Day 13"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Uncontrolled Component</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 12](../12_Day_Forms/12_forms.md) | [Day 14 >>]()
-
+[<< Day 12](./12_forms) | [Day 14 >>](./14_component_life_cycles)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_13.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Uncotrolled Components](#uncotrolled-components)
   - [Getting data from an uncontrolled input](#getting-data-from-an-uncontrolled-input)
   - [Getting multiple input data from form](#getting-multiple-input-data-from-form)
 - [Exercises](#exercises)
   - [Exercises: Level 1](#exercises-level-1)
+
+</details>
+
+---
 
 # Uncotrolled Components
 
@@ -180,4 +171,4 @@ Most of the time we use controlled input instead of uncontrolled input. In case 
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 12](../12_Day_Forms/12_forms.md) | [Day 14 >>]()
+[<< Day 12](./12_forms) | [Day 14 >>](./14_component_life_cycles)

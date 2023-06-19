@@ -1,34 +1,25 @@
 ---
-title: "16. Higher Order Component"
+title: "Higher Order Component"
 description: "Day 16 of tutorial: Higher Order Component"
+day: "Day 16"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Higher Order Component</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 15](../15_Third_Party_Packages/15_third_party_packages.md) | [Day 17 >>](../17_React_Router/17_react_router.md)
-
+[<< Day 15](./15_third_party_packages) | [Day 17 >>](./17_react_router)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_16.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Higher Order Component](#higher-order-component)
 - [Exercises](#exercises)
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Higher Order Component
 
@@ -215,4 +206,4 @@ coming
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 15](../15_Third_Party_Packages/15_third_party_packages.md) | [Day 17 >>](../17_React_Router/17_react_router.md)
+[<< Day 15](./15_third_party_packages) | [Day 17 >>](./17_react_router)

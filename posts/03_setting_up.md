@@ -1,30 +1,15 @@
 ---
-title: "03. Setting Up"
+title: "Setting Up"
 description: "Day 3 of tutorial: Setting Up"
+day: "Day 3"
 ---
 
 
-
-<div align="center">
-  <h1> 30 Days Of React: Setting Up </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-</div>
-
-[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>](../04_Day_Components/04_components.md)
-
+[<< Day 2](./02_introduction_to_react) | [Day 4 >>](./04_components)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_3.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Setting Up](#setting-up)
   - [Node](#node)
@@ -44,6 +29,10 @@ description: "Day 3 of tutorial: Setting Up"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Setting Up
 
@@ -775,4 +764,4 @@ The boilerplate code can be found [here](../03/../03_Day_Setting_Up/30-days-of-r
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>](../04_Day_Components/04_components.md)
+[<< Day 2](./02_introduction_to_react) | [Day 4 >>](./04_components)

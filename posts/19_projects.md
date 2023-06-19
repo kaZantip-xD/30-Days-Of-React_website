@@ -1,27 +1,11 @@
 ---
-title: "19. Fetch Api Projects. Part 1"
+title: "Fetch Api Projects. Part 1"
 description: "Day 19 of tutorial: Fetch Api Projects. Part 1"
+day: "Day 19"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Projects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 18](../18_Fetch_And_Axios/18_fetch_axios.md) | [Day 20>>]()
-
+[<< Day 18](./18_fetch_axios) | [Day 20>>](./20_projects)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_19.jpg)
 
 - [Projects](#projects)
@@ -41,4 +25,4 @@ Your result should look like this [demo](https://www.30daysofreact.com/day-19/ca
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 18](../18_Fetch_And_Axios/18_fetch_axios.md) | [Day 20>>]()
+[<< Day 18](./18_fetch_axios) | [Day 20>>](./20_projects)

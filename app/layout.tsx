@@ -39,9 +39,9 @@ export default function RootLayout({
 	return (
 		<html lang='en'>
 			<head />
-			<body className='transition-all '>
+			<body className='transition-all bg-slate-100'>
 				{header}
-				<div className='mx-auto md:max-w-4xl max-w-[90%]'>{children}</div>
+				<div className='mx-auto md:max-w-4xl max-w-[90%] '>{children}</div>
 				{footer}
 			</body>
 		</html>

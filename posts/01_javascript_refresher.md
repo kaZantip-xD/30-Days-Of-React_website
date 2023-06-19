@@ -1,30 +1,15 @@
 ---
-title: "01. JavaScript Refresher"
-description: "Day 1 of tutorial: JavaScript Refresher"
+title: "JavaScript Refresher"
+description: "JavaScript Refresher"
+day: "Day 1"
 ---
 
 
-<div align="center">
-
-  <h1> 30 Days Of React: JavaScript Refresher</h1>
-  <a className="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-
-  <a className="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)
-
+[<< Day 0](./00_intro) | [Day 2 >>](./02_introduction_to_react)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_1.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [JavaScript Refresher](#javascript-refresher)
   - [0. Adding JavaScript to a Web Page](#0-adding-javascript-to-a-web-page)
@@ -168,6 +153,10 @@ description: "Day 1 of tutorial: JavaScript Refresher"
       - [Exercises Level 2](#exercises-level-2-3)
       - [Exercises Level 3](#exercises-level-3-3)
   - [13 Document Object Model(DOM)](#13-document-object-modeldom)
+
+</details>
+
+---
 
 ## JavaScript Refresher
 
@@ -4526,4 +4515,4 @@ Check out there result on [codepen](https://codepen.io/Asabeneh/full/vYGqQxP)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 0](../readMe.md) | [Day 2 >>](../02_Day_Introduction_to_React/02_introduction_to_react.md)
+[<< Day 0](./00_intro) | [Day 2 >>](./02_introduction_to_react)

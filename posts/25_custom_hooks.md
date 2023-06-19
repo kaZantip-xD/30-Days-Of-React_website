@@ -1,27 +1,11 @@
 ---
 title: "25. Custom Hooks"
 description: "Day 25 of tutorial: Custom Hooks"
+day: "Day 25"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Custom Hooks</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 24](../24_projects/24_projects.md) | [Day 26>>](../26_Context/26_context.md)
-
+[<< Day 24](./24_projects) | [Day 26>>](./26_context)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_25.jpg)
 
 # Custom Hooks
@@ -231,4 +215,4 @@ Note: Continue building the countries application
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 24](../24_projects/24_projects.md) | [Day 26>>](../26_Context/26_context.md)
+[<< Day 24](./24_projects) | [Day 26>>](./26_context)

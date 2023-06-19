@@ -1,28 +1,15 @@
 ---
-title: "15. Third Party Packages"
+title: "Third Party Packages"
 description: "Day 15 of tutorial: Third Party Packages"
+day: "Day 15"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React:Third Party Packages</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 14](../14_Day_Component_Life_Cycles/14_component_life_cycles.md) | [Day 16 >>](../16_Higher_Order_Component/16_higher_order_component.md)
-
+[<< Day 14](./14_component_life_cycles) | [Day 16 >>](./16_higher_order_component)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_15.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Third Party Packages](#third-party-packages)
   - [NPM or Yarn](#npm-or-yarn)
@@ -38,6 +25,10 @@ description: "Day 15 of tutorial: Third Party Packages"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Third Party Packages
 
@@ -454,4 +445,4 @@ Try to also learn how to use the package _classnames_ and _validator_.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 14](../14_Day_Component_Life_Cycles/14_component_life_cycles.md) | [Day 16 >>]()
+[<< Day 14](./14_component_life_cycles) | [Day 16 >>](./16_higher_order_component)

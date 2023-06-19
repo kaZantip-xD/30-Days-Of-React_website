@@ -1,28 +1,15 @@
 ---
-title: "04. Components"
+title: "Components"
 description: "Day 4 of tutorial: Components"
+day: "Day 4"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Components </h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 3](../30-Days-Of-React/03_Day_Setting_Up/03_setting_up.md) | [Day 5 >>](../05_Day_Props/05_props.md)
-
+[<< Day 3](./03_setting_up) | [Day 5 >>](./05_props)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_4.jpg)
+
+<details>
+  <summary>Content summary</summary>
 
 - [Components](#components)
   - [Big picture of components](#big-picture-of-components)
@@ -37,6 +24,10 @@ description: "Day 4 of tutorial: Components"
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
   - [Exercises: Level 3](#exercises-level-3)
+
+</details>
+
+---
 
 # Components
 
@@ -523,4 +514,4 @@ ReactDOM.render(<HexaColor />, rootElement)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 3](../30-Days-Of-React/03_Day_Setting_Up/03_setting_up.md) | [Day 5 >>](../05_Day_Props/05_props.md)
+[<< Day 3](./03_setting_up) | [Day 5 >>](./05_props)

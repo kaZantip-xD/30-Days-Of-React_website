@@ -1,27 +1,11 @@
 ---
-title: "22. Form Using React Hooks"
+title: "Form Using React Hooks"
 description: "Day 22 of tutorial: Form Using React Hooks"
+day: "Day 22"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Form Using React Hooks</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)
-
+[<< Day 21](./21_introducing_hooks) | [Day 23>>](./23_fetching_data_using_hooks)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_22.jpg)
 
 - [Introducing React Hook](#introducing-react-hook)
@@ -976,4 +960,4 @@ Coming ..
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 21](../21_Introducing_Hooks/21_introducing_hooks.md) | [Day 23>>](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)
+[<< Day 21](./21_introducing_hooks) | [Day 23>>](./23_fetching_data_using_hooks)

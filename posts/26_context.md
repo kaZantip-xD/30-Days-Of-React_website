@@ -1,27 +1,11 @@
 ---
 title: "26. Context"
 description: "Day 26 of tutorial: Context"
+day: "Day 26"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Context</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 25](../25_Custom_Hooks/25_custom_hooks.md) | [Day 27>>](../27_Ref/27_ref.md)
-
+[<< Day 25](./25_custom_hooks) | [Day 27>>](./27_ref)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_26.jpg)
 
 # Context
@@ -41,4 +25,5 @@ It seems the react documentation has pretty good information about context, you 
 # Exercises
 
 🎉 CONGRATULATIONS ! 🎉
-[<< Day 25](../25_Custom_Hooks/25_custom_hooks.md) | [Day 27>>](../27_Ref/27_ref.md)
+
+[<< Day 25](./25_custom_hooks) | [Day 27>>](./27_ref)

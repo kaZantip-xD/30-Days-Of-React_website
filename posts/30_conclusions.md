@@ -4,24 +4,7 @@ description: "Day 28 of tutorial: Conclusions"
 ---
 
 
-<div align="center">
-  <h1> 30 Days Of React: Conclusions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 29](../29_explore/29_explore.md)
-
+[<< Day 29](./29_explore)
 ![30 Days of React banner](../images/30_days_of_react_banner_day_30.jpg)
 
 # Conclusions
@@ -37,4 +20,4 @@ Now it is time to express your thoughts about the Author and 30DaysOfReact. You 
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 29](../29_explore/29_explore.md)
+[<< Day 29](./29_explore)
