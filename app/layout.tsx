@@ -1,4 +1,4 @@
-// import "./globals.css";
+import "./globals.css";
 import { Inter } from "next/font/google";
 import Link from "next/link";
 
@@ -16,32 +16,34 @@ export default function RootLayout({
 }) {
 	// header layout
 	const header = (
-		<header>
+		<header className='text-center bg-slate-800 py-7 mb-5'>
 			<div>
-				<Link href='/'>
-					<h1>30 Days React tutorial</h1>
-				</Link>
-				<p>React tutorial description</p>
-				<br />
+				<h1 className='text-3xl text-gray-50 font-bold mb-2'>
+					<Link href='/'>30 Days React tutorial</Link>
+				</h1>
+
+				<p className='text-xl text-slate-300'>React tutorial description</p>
 			</div>
 		</header>
 	);
 
 	// footer layout
 	const footer = (
-		<footer>
+		<footer className='text-right pr-10 bg-slate-800 py-7 mt-5'>
 			<div>
-				<br />
-				<p>developed by kaZantip_xD</p>
+				<p className='text-xl text-slate-100'>developed by kaZantip_xD</p>
 			</div>
 		</footer>
 	);
 
 	return (
 		<html lang='en'>
-			{header}
-			{children}
-			{footer}
+			<head />
+			<body className='transition-all '>
+				{header}
+				<div className='mx-auto md:max-w-4xl max-w-[90%]'>{children}</div>
+				{footer}
+			</body>
 		</html>
 	);
 }
