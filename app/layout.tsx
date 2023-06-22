@@ -27,11 +27,22 @@ export default function RootLayout({
 
 	// footer layout
 	const Footer = (
-		<footer className='text-right pr-10 bg-slate-800 py-7 mt-5'>
-			<div>
-				<p className='text-xl text-slate-100'>
-					website developed by kaZantip_xD
-				</p>
+		<footer className='footer text-right pr-10 bg-slate-800 py-7 mt-5'>
+			<div className='text-xl text-slate-100 inline-flex'>
+				website developed by
+				<span className='ml-2'>
+					<a
+						className='my-auto'
+						href='https://github.com/kazantip-xd/'
+						target='_blank'
+					>
+						<img
+							className=''
+							alt='github'
+							src='https://img.shields.io/badge/kaZantip-xD?style=social&logo=github&logoColor=black&labelColor=eee'
+						/>
+					</a>
+				</span>
 			</div>
 		</footer>
 	);
