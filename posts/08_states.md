@@ -1,7 +1,7 @@
 ---
-title: "08. States"
+title: "States"
 description: "Day 8 of tutorial: States"
-day: "Day "
+day: "Day 8"
 ---
 
 

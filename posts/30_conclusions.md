@@ -1,6 +1,7 @@
 ---
-title: "28. Conclusions"
-description: "Day 28 of tutorial: Conclusions"
+title: "Final conclusion"
+description: "Day 30 of tutorial: Conclusions"
+day: "Day 30"
 ---
 
 

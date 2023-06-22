@@ -1,5 +1,5 @@
 ---
-title: "26. Context"
+title: "Context"
 description: "Day 26 of tutorial: Context"
 day: "Day 26"
 ---

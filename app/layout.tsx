@@ -1,8 +1,6 @@
 import "./globals.css";
-import { Inter } from "next/font/google";
 import Link from "next/link";
-
-const inter = Inter({ subsets: ["latin"] });
+import Script from "next/script";
 
 export const metadata = {
 	title: "30 Days React tutorial layout",
@@ -15,7 +13,7 @@ export default function RootLayout({
 	children: React.ReactNode;
 }) {
 	// header layout
-	const header = (
+	const Header = (
 		<header className='text-center bg-slate-800 py-7 mb-5'>
 			<div>
 				<h1 className='text-3xl text-gray-50 font-bold mb-2'>
@@ -28,10 +26,12 @@ export default function RootLayout({
 	);
 
 	// footer layout
-	const footer = (
+	const Footer = (
 		<footer className='text-right pr-10 bg-slate-800 py-7 mt-5'>
 			<div>
-				<p className='text-xl text-slate-100'>developed by kaZantip_xD</p>
+				<p className='text-xl text-slate-100'>
+					website developed by kaZantip_xD
+				</p>
 			</div>
 		</footer>
 	);
@@ -39,10 +39,11 @@ export default function RootLayout({
 	return (
 		<html lang='en'>
 			<head />
-			<body className='transition-all bg-slate-100'>
-				{header}
-				<div className='mx-auto md:max-w-4xl max-w-[90%] '>{children}</div>
-				{footer}
+			<body className='transition-all bg-slate-50'>
+				{Header}
+				<div className='mx-auto lg:max-w-4xl max-w-[90%] '>{children}</div>
+				{Footer}
+				<Script src='./posts/[slug]/index.js' />
 			</body>
 		</html>
 	);

@@ -22,53 +22,49 @@ export const generateStaticParams = async () => {
 const PostPage = (props: any) => {
 	const slug = props.params.slug;
 	const post = getPostContent(slug);
+
 	return (
-		<div>
+		<>
 			{/* <h1>{post.data.title} post page</h1> */}
-			<div className='author-description'>
-				<h1 className='author-title'>
-					{" "}
-					30 Days Of React: JavaScript Refresher
-				</h1>
-				<div className='author-name'>
-					Author: Asabeneh Yetayeh
-					<br />
-					<div className='author-socials'>
-						<a href='https://github.com/Asabeneh/' target='_blank'>
-							<img
-								alt='github'
-								src='https://img.shields.io/github/followers/Asabeneh.svg?style=social&label=Follow&maxAge=2592000'
-							/>
-						</a>
-						<a
-							className='header-badge'
-							target='_blank'
-							href='https://www.linkedin.com/in/asabeneh/'
-						>
-							<img
-								alt='linkedin'
-								src='https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social'
-							/>
-						</a>
-						<a
-							className='header-badge'
-							target='_blank'
-							href='https://twitter.com/Asabeneh'
-						>
-							<img
-								alt='twitter'
-								src='https://img.shields.io/twitter/follow/asabeneh?style=social'
-							/>
-						</a>
-					</div>
-					<small> October, 2020</small>
+			<div className='author-description flex items-center md:justify-evenly flex-col md:flex-row md:items-center'>
+				<div className='py-5'>
+					<h1 className='author-title'> 30 Days Of React: JavaScript</h1>
+					<div className='author-name'>Author: Asabeneh Yetayeh</div>
+				</div>
+				<div className='author-socials '>
+					<a href='https://github.com/Asabeneh/' target='_blank'>
+						<img
+							alt='github'
+							src='https://img.shields.io/github/followers/Asabeneh.svg?style=social&label=Follow&maxAge=2592000'
+						/>
+					</a>
+					<a
+						className='header-badge'
+						target='_blank'
+						href='https://www.linkedin.com/in/asabeneh/'
+					>
+						<img
+							alt='linkedin'
+							src='https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social'
+						/>
+					</a>
+					<a
+						className='header-badge'
+						target='_blank'
+						href='https://twitter.com/Asabeneh'
+					>
+						<img
+							alt='twitter'
+							src='https://img.shields.io/twitter/follow/asabeneh?style=social'
+						/>
+					</a>
 				</div>
 			</div>
 
 			<article className='prose prose-base prose-code max-w-[90%] mx-auto'>
 				<Markdown>{post.content}</Markdown>
 			</article>
-		</div>
+		</>
 	);
 };
 

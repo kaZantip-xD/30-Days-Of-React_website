@@ -1,6 +1,6 @@
 ---
 title: "JavaScript Refresher"
-description: "JavaScript Refresher"
+description: "Day 1 of tutorial: JavaScript Refresher"
 day: "Day 1"
 ---
 

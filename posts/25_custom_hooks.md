@@ -1,5 +1,5 @@
 ---
-title: "25. Custom Hooks"
+title: "Custom Hooks"
 description: "Day 25 of tutorial: Custom Hooks"
 day: "Day 25"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "23. Fetching Data Using Hooks"
+title: "Fetching Data Using Hooks"
 description: "Day 23 of tutorial: Fetching Data Using Hooks"
 day: "Day 23"
 ---

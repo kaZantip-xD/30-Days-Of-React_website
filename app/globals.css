@@ -31,3 +31,21 @@ summary {
 	font-weight: bold;
 	text-decoration: underline;
 }
+
+.post-title {
+	position: relative;
+}
+.post-title::before {
+	content: attr(post-day);
+	position: absolute;
+	float: right;
+	height: 100%;
+	right: 20px;
+	color: transparent;
+	text-shadow: 0 0 1px rgb(203 213 225);
+	font-size: 2rem;
+	font-style: italic;
+	font-weight: bold;
+	pointer-events: none;
+	z-index: inherit;
+}
