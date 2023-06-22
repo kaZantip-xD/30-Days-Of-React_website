@@ -47,7 +47,7 @@ day: "Day 0"
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| 00    | [Introduction](#introduction)<br> [How to Use Repo](#how-to-use-repo)<br> [Requirements](#requirements)<br> [Setup](#setup) |
+| 00    | [Introduction](#introduction) -- [How to Use Repo](#how-to-use-repo) -- [Requirements](#requirements) -- [Setup](#setup)    |
 | 01    |                      [JavaScript Refresher](./01_javascript_refresher)                                                      |
 | 02    |                     [Getting Started React](./02_introduction_to_react)                                                     |
 | 03    |                                     [Setting Up](./03_setting_up)                                                           |
